@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "finiteelementanalysis"
 version = "0.0.0"
 authors = [
-  { name = "Emma Lejeune", email = "elejeune@bu.edu" },
+  { name = "Rishabh", email = "rishy@bu.edu" },
 ]
 description = "finiteelementanalysis workflow"
 readme = "README.md"
@@ -34,7 +34,3 @@ dependencies = [
   "python-dateutil>=2.8",
   "scipy>=1.11,<1.16"
 ]
-
-[project.urls]
-"Homepage" = "https://github.com/Lejeune-Lab-Graduate-Course-Materials/finite-element-analysis"
-"Bug Tracker" = "https://github.com/Lejeune-Lab-Graduate-Course-Materials/finite-element-analysis/issues"
