@@ -41,7 +41,7 @@ It is recommended to run the tutorials in VSCode. The tutorials are mainly based
 
 This is available in [tutorial1.ipynb](https://github.com/rishabh022298/A3P4/blob/main/tutorials/tutorial1.ipynb). 
 
-A cantilever beam is subjected to a uniformly distributed load. This leads to deflection in the beam which is compared with the analytical result. The analytical and numerical results are compared for the tip deflection which can be calculated as:\
+A cantilever beam is subjected to a uniformly distributed load. This leads to deflection in the beam which is compared with the analytical result. The analytical and numerical results are compared for the tip deflection which can be calculated as:
 
 $$w(L) = \frac{qL^4}{8EI}$$
 
