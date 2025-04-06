@@ -67,7 +67,11 @@ h-refinement study was done using "D2_nn4_quad" element. Different mesh refineme
 ### p-refinement
 
 Same mesh parameters were used across the four different element types. Those were:
--1. D2_nn3_tri
--2. D2_nn4_quad
--3. D2_nn6_tri
--4. D2_nn8_quad
+1. `D2_nn3_tri`
+2. `D2_nn4_quad`
+3. `D2_nn6_tri`
+4. `D2_nn8_quad`
+
+It was found that as the number of nodes per element increased, the solution started convering to the same values as in theh-refinement study.
+
+## Tutorial 3: Failure to Converge
