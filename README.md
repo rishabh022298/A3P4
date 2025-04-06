@@ -35,3 +35,6 @@ pip install -e .
 pytest -v --cov=finiteelementanalysis --cov-report term-missing
 ```
 
+It is recommended to run the tutorials in VSCode. The tutorials are mainly based on [example provided by Prof Lejeune](https://github.com/Lejeune-Lab-Graduate-Course-Materials/finite-element-analysis/blob/main/tutorials/full_code_example_2.py).
+
+## Tutorial 1
