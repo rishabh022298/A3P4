@@ -41,7 +41,7 @@ It is recommended to run the tutorials in VSCode. The tutorials are mainly based
 
 A cantilever beam is subjected to a uniformly distributed load. This leads to deflection in the beam which is compared with the analytical result. The analytical and numerical results are compared for the tip deflection which can be calculated as:\
 
-$$w(L) = \frac{qL^4}{8EI}$$ \
+$$w(L) = \frac{qL^4}{8EI}$$
 
 Where,\
 $w(L) =$ Tip deflection\
