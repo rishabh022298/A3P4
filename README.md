@@ -39,11 +39,11 @@ It is recommended to run the tutorials in VSCode. The tutorials are mainly based
 
 ## Tutorial 1: Bending of a Beam and comparison with Analytical Result.
 
-A cantilever beam is subjected to a uniformly distributed load. This leads to deflection in the beam which is compared with the analytical result. The analytical and numerical results are compared for the tip deflection which can be calculated as:
-$$w(L) = \frac{qL^4}{8EI}$$
-Where,
-$w(L) =$ Tip deflection
-$L =$ Length of the cantilever beam
-$q =$ Uniformly distributed load
-$E =$ Young's modulus
-$I =$ Second moment of inertia
+A cantilever beam is subjected to a uniformly distributed load. This leads to deflection in the beam which is compared with the analytical result. The analytical and numerical results are compared for the tip deflection which can be calculated as:\
+$$w(L) = \frac{qL^4}{8EI}$$\
+Where,\
+$w(L) =$ Tip deflection\
+$L =$ Length of the cantilever beam\
+$q =$ Uniformly distributed load\
+$E =$ Young's modulus\
+$I =$ Second moment of inertia\
