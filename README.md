@@ -75,3 +75,9 @@ Same mesh parameters were used across the four different element types. Those we
 It was found that as the number of nodes per element increased, the solution started convering to the same values as in theh-refinement study.
 
 ## Tutorial 3: Failure to Converge
+
+This is available in [tutorial3.ipynb](https://github.com/rishabh022298/A3P4/blob/main/tutorials/tutorial3.ipynb).
+
+Same problem as tutorial 1 was implemented with two key changes:
+1. `Poor meshing`: Little is known if it directly affected the convergence but it affects the post processing capabilities as the point of interest do not lie anywhere close to the any grid point of the mesh.
+2. `Improper boundary condition`: Instead of giving a proper constraint, only a single node was fixed. This makes the stiffness matrix ill conditioned and leads to increase in the residual to very high order.
